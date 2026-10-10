@@ -1,0 +1,8 @@
+node_modules/
+venv/
+.venv/
+.env
+.DS_Store
+backend/.venv/
+backend/.env
+backend/auth.db
